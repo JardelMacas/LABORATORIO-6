@@ -28,6 +28,7 @@ Objetivos Especificos
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
  Armamos el circuito que se muestra en la figura 6.1.
+ 
  ![image](https://user-images.githubusercontent.com/84357979/127649619-a4e7e62c-f9d6-4db4-8e05-e8cd1e75b2e7.png)
 
 Luego Calculamos los voltajes, corrientes y potencias suministradas a cada uno de los valores fijos de resistencia mediante la formula de la Ley de Ohm, Divisor de Voltaje y Formula para Potencias:
