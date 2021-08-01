@@ -18,7 +18,7 @@ Objetivos Especificos
 
 
 **2.MARCO TEORICO**
-![Resumen Lab#6](https://user-images.githubusercontent.com/84453441/127756152-f0878672-b7e3-4691-804b-eb13ba206c26.jpg)
+![Resumen Lab#6](https://user-images.githubusercontent.com/84453441/127757705-b390fbe6-26ef-4c98-887f-d4e64bf90b13.png)
 
 
 
