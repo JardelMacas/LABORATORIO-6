@@ -30,9 +30,26 @@ Objetivos Especificos
 3.Concluido el paso anteriormente mencionado se procede a la revisión del valor de cada uno de los componentes presentes en el circuito, al igual que los materiales utilizados para su respectiva realizacion. 
 ![Procedimiento escrito lab #6_00001 (3)](https://user-images.githubusercontent.com/84453441/127762587-bddf680f-4226-4494-9d27-632c2dad939f.png)
 
-4. Continuando el proceso de la práctica procedemos a armar el circuito conforme se indica en la figura 6.1.
-5. Primero colocamos el protoboard en el cual se ubicarán las dos resistencias y la fuente de voltaje con sus respectivos valores conforme a lo planteado en el diagrama de la práctica, y procedemos a conectar un instrumento de medición (multímetro) el cual nos servirá para medir el voltaje y la corriente de la siguiente manera: 
+4.Continuando el proceso de la práctica procedemos a armar el circuito conforme se indica en la figura 6.1.
+5.Primero colocamos el protoboard en el cual se ubicarán las dos resistencias y la fuente de voltaje con sus respectivos valores conforme a lo planteado en el diagrama de la práctica, y procedemos a conectar un instrumento de medición (multímetro) el cual nos servirá para medir el voltaje y la corriente de la siguiente manera: 
+![Procedimiento escrito lab #6_00002 (2)](https://user-images.githubusercontent.com/84453441/127762719-a03a3b88-26a2-4906-aece-056789d7b7f7.png)
 
+6.Ya terminado el armado del circuito se procede a medir el voltaje y la corriente para cada valor de RL los cuales son los siguientes:
+![Procedimiento escrito lab #6_00002 (3)](https://user-images.githubusercontent.com/84453441/127762735-56959ec6-38f1-455f-8c48-9e652dd8881b.png)
+![Procedimiento escrito lab #6_00003 (2)](https://user-images.githubusercontent.com/84453441/127762826-b0831311-7476-4eb7-b92b-c823a0854fe2.png)
+![Procedimiento escrito lab #6_00003 (3)](https://user-images.githubusercontent.com/84453441/127762837-97330cc1-a5b3-4803-883a-e71d76da5e26.png)
+![Procedimiento escrito lab #6_00004 (2)](https://user-images.githubusercontent.com/84453441/127762884-96e25d65-c276-4e10-81f8-a8eede542646.png)
+![Procedimiento escrito lab #6_00004 (3)](https://user-images.githubusercontent.com/84453441/127762887-363a63bf-2a7c-4da8-b8b4-1650ee138c8a.png)
+![Procedimiento escrito lab #6_00005 (2)](https://user-images.githubusercontent.com/84453441/127762945-11025d17-90eb-4a76-bd90-7605370e456e.png)
+![Procedimiento escrito lab #6_00005 (3)](https://user-images.githubusercontent.com/84453441/127762951-153187c2-714f-47a4-861a-1983caf20a32.png)
+![Procedimiento escrito lab #6_00006 (2)](https://user-images.githubusercontent.com/84453441/127762990-5fb2419e-dacc-4e4c-8204-4c9a2d39d9f0.png)
+![Procedimiento escrito lab #6_00006 (3)](https://user-images.githubusercontent.com/84453441/127762997-8bdf6051-381b-4b4f-a3cb-8cfa134f4055.png)
+![Procedimiento escrito lab #6_00007 (2)](https://user-images.githubusercontent.com/84453441/127763036-a1c987eb-afda-4784-88dc-bbbdbc28a018.png)
+
+7.Para finalizar la práctica calculamos la potencia consumida por la resistencia RL, utilizando en esta ocasión el simulador DCACLab para asi medir con la ayuda de un vatímetro la potencia de cada una de las resistencias, tomando como referencia la resistencia de 1000 Ohmios ya que ésta es la que más se acerca al valor de la resistencia principal que es de 1200 Ohmios. 
+![Procedimiento escrito lab #6_00007 (3)](https://user-images.githubusercontent.com/84453441/127763044-bf3d0d96-f8f4-4125-9bf2-f3a8e7b8940c.png)
+
+8.En conclusión la resistencia de 1000 Ohmios es la que representa la mayor potencia y lo podemos comprobar mediante los resultados obtenidos en el proceso matemático.  
 
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
