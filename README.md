@@ -23,7 +23,15 @@ Objetivos Especificos
 
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
+1.Para dar comienzo a la práctica correspondiente al laboratorio #6 es necesario tener conocimiento de cómo funciona el teorema de máxima transferencia de potencia como se muestra en el siguiente diagrama de un circuito.
+![Procedimiento escrito lab #6_00001 (2)](https://user-images.githubusercontent.com/84453441/127762582-d76fcf66-057c-44df-9886-f3c1a6680022.png)
 
+2.Una vez realizado un previo análisis del circuito se observa que consta de dos resistencias (una en serie y una en paralelo), y una fuente de voltaje con su respectivo valor. 
+3.Concluido el paso anteriormente mencionado se procede a la revisión del valor de cada uno de los componentes presentes en el circuito, al igual que los materiales utilizados para su respectiva realizacion. 
+![Procedimiento escrito lab #6_00001 (3)](https://user-images.githubusercontent.com/84453441/127762587-bddf680f-4226-4494-9d27-632c2dad939f.png)
+
+4. Continuando el proceso de la práctica procedemos a armar el circuito conforme se indica en la figura 6.1.
+5. Primero colocamos el protoboard en el cual se ubicarán las dos resistencias y la fuente de voltaje con sus respectivos valores conforme a lo planteado en el diagrama de la práctica, y procedemos a conectar un instrumento de medición (multímetro) el cual nos servirá para medir el voltaje y la corriente de la siguiente manera: 
 
 
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
