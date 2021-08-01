@@ -1,6 +1,6 @@
 # LABORATORIO-6
 
-AUTORES: JERSON CHAMBA-JARDEL MACAS - ESTEFANY RAMOS
+AUTORES: JERSON CHAMBA - JARDEL MACAS - ESTEFANY RAMOS
 
 **1 . OBJETIVOS**
 
@@ -18,6 +18,7 @@ Objetivos Especificos
 
 
 **2.MARCO TEORICO**
+![Resumen Lab#6](https://user-images.githubusercontent.com/84453441/127756152-f0878672-b7e3-4691-804b-eb13ba206c26.jpg)
 
 
 
