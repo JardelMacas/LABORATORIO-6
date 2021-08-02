@@ -82,7 +82,7 @@ RL = 220Ω = 224.49 mW.(watts)
 
 6.5.6. ¿Para qué valor de RL se obtiene la MTP? 
 
-RL = 100Ω  
+RL = 1200 ohms  
 
 **5.VIDEO**
 
